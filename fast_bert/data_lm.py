@@ -6,7 +6,7 @@ import os
 import random
 import torch
 from pathlib import Path
-import pickle
+import pickle5 as pickle
 import shutil
 import itertools
 import more_itertools
